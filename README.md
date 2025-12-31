@@ -1,4 +1,4 @@
-# Pytorch Custom CUDA kernel Tutorial
+# GPU Trace – CUDA Kernel Micro benchmarking for PyTorch                                                    
 
 This repository contains a tutorial code for making a custom CUDA function for
 pytorch. The code is based on the pytorch [C extension
